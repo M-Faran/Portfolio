@@ -38,8 +38,8 @@ Another beginner staple — the "Simple Storage" contract.
 
 🔗 https://github.com/M-Faran/Simple-Storage
 
-## 7. Open Source Commits
+## 7. Currently Creating a Wallet
 
-Tried contributing to open source. Ended up just fixing some import statements 🤷‍♂️
+🔗 https://github.com/M-Faran/Spectrum-Wallet
 
-## 8. Currently Working on Private Repos
+
