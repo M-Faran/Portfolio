@@ -1,6 +1,8 @@
 # Portfolio
 
-This portfolio brings all my coding projects together in one place for easy access and exploration.
+- This portfolio brings all my coding projects together in one place for easy access and exploration.
+- **For my security audits visit**
+🔗 https://github.com/M-Faran/Security-Audits
 
 ## 1. Coin Market Cap via Chainlink Oracle
 
@@ -38,8 +40,12 @@ Another beginner staple — the "Simple Storage" contract.
 
 🔗 https://github.com/M-Faran/Simple-Storage
 
-## 7. Currently Creating a Wallet
+## 7. Creating a Wallet
 
 🔗 https://github.com/M-Faran/Spectrum-Wallet
+
+## 8. Voting System
+
+🔗 https://github.com/M-Faran/VotingSystem
 
 
